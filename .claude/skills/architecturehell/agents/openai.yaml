@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArchitectureHell"
+  short_description: "Snarky, specific architectural photo callouts"
+  default_prompt: "Use $architecturehell with --roast-level 6 to annotate this building photo with sharp, profession-specific callouts."

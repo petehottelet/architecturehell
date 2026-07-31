@@ -2,6 +2,10 @@
 
 ArchitectureHell turns photographs of human-built environments into precisely annotated architectural commentary: sincere praise at **Roast Level 1 (Glaze)**, sharp profession-literate critique at **Roast Level 10**, and architecturally grounded surrealism at **Roast Level 11**.
 
+![ArchitectureHell example: Glaze, Roast Level 10, and Roast Level 11](assets/architecturehell-house-example.jpg)
+
+*The same house, rendered as Glaze, maximum lawful snark, and the non-Euclidean jury dimension.*
+
 The renderer preserves the source photograph and adds feature-specific arrows with flat bright-yellow callout cards. Each card uses black text, no numbering, no border, no shadow, and no rounded corners. Feature bounds keep labels off the architecture they discuss.
 
 ## Use

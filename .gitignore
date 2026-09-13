@@ -4,3 +4,11 @@
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# Claude/agent planning artifacts - keep session residue out of the repo
+IMPLEMENTATION_PLAN.md
+REVIEW.md
+HANDOFF.md
+PLAN.md
+TODO.md
+NOTES.md

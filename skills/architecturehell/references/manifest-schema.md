@@ -34,7 +34,7 @@ The renderer accepts one JSON object:
 - `subtitle`: optional short string rendered under the title.
 - `roast_level`: optional integer from `1` through `11`; default `6`. The renderer displays it but does not rewrite callout copy.
 - `callouts`: required list of 1–18 objects.
-- `callouts[].text`: required exact label copy, 1–140 characters.
+- `callouts[].text`: required exact label copy, 1–180 characters. Aim for 120 or fewer; shorter cards read better.
 - `callouts[].target`: required `[x, y]` point on the feature, normalized from `0.0` at the top-left to `1.0` at the bottom-right.
 - `callouts[].label`: optional normalized `[x, y]` top-left corner for the label box. The renderer chooses an edge position when omitted.
 - `callouts[].feature_bounds`: optional normalized `[left, top, right, bottom]` extent of the feature, with positive area. Supply it for every callout; the renderer treats all supplied bounds as protected placement zones.

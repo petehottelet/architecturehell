@@ -12,3 +12,21 @@ HANDOFF.md
 PLAN.md
 TODO.md
 NOTES.md
+# Credentials and generated files
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+credentials.yaml
+credentials.yml
+00_project_files/
+00_Project_Files/
+output/
+outputs/
+dist/
+build/
+.cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
